@@ -1,7 +1,3 @@
-*.jpeg
-*.jpg
-*.png
-*.gif
 *.pth
 data/
 .ipynb_checkpoints/
