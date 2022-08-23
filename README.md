@@ -17,6 +17,7 @@ This project contains a variety of implementations I've created of popular or in
 - SRGAN (or other super resolution GANs)
 - Neural Radiance Fields (NeRF)
 - YoloV1 - YoloV7
+- Fast / Faster R-CNN
 - Autoencoders (unsure of specifics)
 - Random Forests
 - Distributed Gradient Boosted Decision Trees (XGBoost)
@@ -25,7 +26,7 @@ This project contains a variety of implementations I've created of popular or in
 - Stable Diffusion (Stability.AI)
 - Bloom / GPT-3
 - BERT
-- Image Segmentation (Not aware of specific models)
+- Image Segmentation (Fast FCN, Gated SCNN, Deep Lab, Mask R-CNN)
 - Pose detection (Open Pose, Alpha Pose, etc.)
 - Driving Speed Detection (CARLA)
 - Transpose Convolution Vs Pixel Shuffle 
