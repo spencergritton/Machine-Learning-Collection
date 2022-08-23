@@ -10,7 +10,7 @@ This implementation, like the original paper, generates faces in an unsupervised
 
 # Results
 
-<img width="100%" src="../../Photos/GANs/ProGAN.jpeg" />
+<img width="50%" src="../../Photos/GANs/ProGAN.jpeg" />
 
 
 # Citation
